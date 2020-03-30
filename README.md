@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/bdwolfe/travis-ci-tutorial.svg?branch=master)](https://travis-ci.org/bdwolfe/travis-ci-tutorial)
-[![Coverage Status](https://coveralls.io/repos/github/bdwolfe/travis-ci-tutorial/badge.svg?branch=master)](https://coveralls.io/github/bdwolfe/travis-ci-tutorial?branch=master)
+[![Build Status](https://travis-ci.org/peterlowrance/travis-ci-tutorial.svg?branch=master)](https://travis-ci.org/peterlowrance/travis-ci-tutorial)
+[![Coverage Status](https://coveralls.io/repos/github/peterlowrance/travis-ci-tutorial/badge.svg?branch=master)](https://coveralls.io/github/peterlowrance/travis-ci-tutorial?branch=master)
 
 # travis-ci-tutorial
 Just to learn how to use travis-ci in a java project! Modified from [Joao Neto's tutorial](https://github.com/joaomlneto/travis-ci-tutorial-java)
@@ -10,9 +10,9 @@ This is a working minimal example of how to use Travis CI (and Codecov) with Jav
 
 # How To Start
 
-1. [Fork](https://github.com/bdwolfe/travis-ci-tutorial/fork) this Repository
+1. [Fork](https://github.com/peterlowrance/travis-ci-tutorial/fork) this Repository
 2. Make sure it is public (so we can get free CI!)
-3. Fix the `README.md` badges (replacing all the `bdwolfe` occurrences in the file with `your-github-username`) and push the changes.
+3. Fix the `README.md` badges (replacing all the `peterlowrance` occurrences in the file with `your-github-username`) and push the changes.
 4. Go to [Travis CI](http://travis-ci.org) dot org (the .org is important!)
 5. Sign in with your GitHub account
 6. Under your profile settings, enable the repository
