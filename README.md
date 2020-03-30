@@ -23,3 +23,5 @@ This is a working minimal example of how to use Travis CI (and Codecov) with Jav
 This repository also integrates with Coveralls to generate coverage reports.
 - The [JaCoCo](https://www.jacoco.org) and coveralls-maven-plugin are included in `pom.xml`
 - On `.travis.yml`, `after_success` target sends the code report to Coveralls.
+
+Testing
